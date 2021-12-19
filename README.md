@@ -1,7 +1,12 @@
-<h1>hi im hossein jamail code</h1>
+<h1>hi im hossein jamali code</h1>
 
 
-i'm **mimsadAlef (mohammad sadegh abdollahi)**
+
+
+
+i'm **hossein jamali**
+
+site ** www.Listonite.com**
 
 <h2 align="center">Technologies & Languages I use</h2>
 
@@ -19,7 +24,7 @@ i'm **mimsadAlef (mohammad sadegh abdollahi)**
     <a href="https://github.com/hosseinjam">
         <img src="https://img.shields.io/github/followers/MimsadAlef?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <a href"hossein09105522119@gmail.com">
+    <a href"mailto: hossein09105522119@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?logo=Mail.Ru&logoColor=white&style=for-the-badge" alt="Email">
     </a>
     <a href="https://www.aparat.com/python101">
